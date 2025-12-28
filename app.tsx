@@ -136,7 +136,7 @@ const App: React.FC = () => {
       <TermsModal isOpen={isTermsOpen} onClose={() => setIsTermsOpen(false)} />
       <PrivacyModal isOpen={isPrivacyOpen} onClose={() => setIsPrivacyOpen(false)} />
     </div>
-  );
+  ); 
 };
 
 export default App;
