@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Hayk Reiniging",
+  "description": "Professioneel platform voor terras- en opritreiniging met een interactieve prijscalculator en AI-assistent.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
